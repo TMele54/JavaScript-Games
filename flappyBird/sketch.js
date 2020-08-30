@@ -15,8 +15,8 @@ var touched = false;
 var prevTouched = touched;
 
 function preload() {
-  pipeBodySprite = loadImage('graphics/pipe_marshmallow_fix.png');
-  pipePeakSprite = loadImage('graphics/pipe_marshmallow_fix.png');
+  pipeBodySprite = loadImage('graphics/pipe.png');
+  pipePeakSprite = loadImage('graphics/pipe.png');
   birdSprite = loadImage('graphics/train.png');
   bgImg = loadImage('graphics/background.jpg');
 }
